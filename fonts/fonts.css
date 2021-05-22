@@ -1,0 +1,9 @@
+@font-face {
+  src: url('./OpenSans-Bold.woff') format('woff');
+  font-family: 'Open Sans-bold';
+}
+
+@font-face {
+  src: url('./OpenSans-Regular.woff') format('woff');
+  font-family: 'Open Sans-regular';
+}
